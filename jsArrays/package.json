@@ -1,0 +1,14 @@
+{
+  "name": "jsarrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "each.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sai",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
